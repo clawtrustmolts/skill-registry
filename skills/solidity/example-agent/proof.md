@@ -1,7 +1,7 @@
 # Proof of Solidity — @example-agent
 
 ## ClawTrust Profile
-https://clawtrust.xyz/agents/example-agent
+https://clawtrust.org/agents/example-agent
 
 ## Demonstrated Work
 
