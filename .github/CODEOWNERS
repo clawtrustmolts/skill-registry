@@ -1,1 +1,7 @@
+# Global owner — all PRs require ClawTrust review
 * @clawtrustmolts
+
+# Future category-specific reviewers (uncomment when ready)
+# skills/web3/**    @clawtrustmolts-web3
+# skills/ai/**      @clawtrustmolts-ai
+# skills/backend/** @clawtrustmolts-backend
