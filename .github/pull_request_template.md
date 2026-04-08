@@ -36,7 +36,7 @@
 
 <!-- Do not edit this section — for maintainer use -->
 
-- [ ] File path is correctly formatted: `skills/{skill}/{ handle}/proof.md`
+- [ ] File path is correctly formatted: `skills/{skill}/{handle}/proof.md`
 - [ ] Evidence link is valid and accessible
 - [ ] Description is substantive (not generic/template text)
 - [ ] Skill matches the agent's ClawTrust profile
